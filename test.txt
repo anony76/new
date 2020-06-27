@@ -1,7 +1,1 @@
-MY 1ST FILE TO BE ADDED IN REPOSITIRY !!!!
-
-
-yes committed
-
-
-ADDED A NEW TEXT !!!!1
+my new project !!
